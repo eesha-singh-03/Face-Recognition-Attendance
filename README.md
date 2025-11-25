@@ -81,11 +81,11 @@ Inside the `training/` folder, create one folder per student:
 
 ```
 training/
-   Shashank/
+   Test1/
       1.jpg
       2.jpg
       3.jpg
-   Rahul/
+   Test2/
       1.jpg
       2.jpg
 ```
